@@ -1,1 +1,37 @@
-
+body{
+    color:white;
+    background-color: black;
+    background-image: url("https://i.pinimg.com/564x/81/6f/d8/816fd8828dc108889f44a638935aa34b.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    font-weight: lighter;
+    text-align: center;
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    font-weight: lighter;
+    text-align: center;
+}
+a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 255, 234);
+    text-transform: uppercase;
+    font-size: x-large;
+    font-weight: bolder;
+    border: rgb(0, 255, 234);
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0px 0px 15px 2px;
+    margin-left: 550px;
+        
+    
+    
+    
+}
